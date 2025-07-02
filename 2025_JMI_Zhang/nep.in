@@ -1,0 +1,7 @@
+type 2 Si C
+version 3
+cutoff		6 4
+n_max 		8 8
+neuron		30
+batch 		2000
+generation 	300000
